@@ -16,25 +16,36 @@
 
 - :biking_man: Гоняю на кроссовом мотоцикле.
 
+- воспитываю сына):baby: 
+
 <div id="skills" >
-  <h1 id = "skills__title" >tech stack:</h1>
+  <h2 id = "skills__title" >Технический Стек:</h2>
   <img src="https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-blue?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-grey?logo=javascript&logoColor=yellow&style=for-the-badge" alt="JS"/>
   <img src="https://img.shields.io/badge/webpack-lightblue?logo=webpack&logoColor=grey&style=for-the-badge" alt="webpack"/>
+  <img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
+  <img src="https://img.shields.io/badge/node.js-green?logo=node.js&logoColor=white&style=for-the-badge" alt="NODE"/>
+  <img src="https://img.shields.io/badge/sass-white?logo=sass&logoColor=ed3b97&style=for-the-badge" alt="sass"/>
+  <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript"/>
+  <img src="https://img.shields.io/badge/react-inactive?logo=react&logoColor=lightblue&style=for-the-badge" alt="react"/>
   <img src="" alt=""/>
   <img src="" alt=""/>
-
+  <img src="" alt=""/>
 </div>
   
 <div id="badges" >
-  <h1 id = "social__title">Где меня найти:</h1>
+  <h2 id = "social__title">Где меня найти:</h2>
   <a href="https://vk.com/maxsavinec">
   <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK"/>
   </a>
  
 </div>
 
+###  Статистика страницы:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=savamaxxx&theme=dark&background=000000)](https://git.io/streak-stats)
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savamaxxx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **savamaxxx/savamaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
