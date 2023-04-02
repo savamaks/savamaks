@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/webpack-lightblue?logo=webpack&logoColor=grey&style=for-the-badge" alt="webpack"/>
   <img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
   <img src="https://img.shields.io/badge/node.js-green?logo=node.js&logoColor=white&style=for-the-badge" alt="NODE"/>
-  <img src="https://img.shields.io/badge/sass-white?logo=sass&logoColor=ed3b97&style=for-the-badge" alt="sass"/>
+  <img src="https://img.shields.io/badge/sass-ed3b97?logo=sass&logoColor=white&style=for-the-badge" alt="sass"/>
   <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript"/>
   <img src="https://img.shields.io/badge/react-inactive?logo=react&logoColor=lightblue&style=for-the-badge" alt="react"/>
   <img src="" alt=""/>
