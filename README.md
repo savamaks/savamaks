@@ -39,9 +39,9 @@
   <a href="https://vk.com/maxsavinec">
   <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK"/>
   </a>
-   <a href="">
+<!--    <a href="">
   <img src="https://img.shields.io/badge/instagram-e62955?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/>
-  </a>
+  </a> -->
  <a href="https://t.me/MaximSavinec">
   <img src="https://img.shields.io/badge/telegram-2287e6?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram"/>
   </a>
