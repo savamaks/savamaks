@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/node.js-green?logo=node.js&logoColor=white&style=for-the-badge" alt="NODE"/>
   <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript"/>
   <img src="https://img.shields.io/badge/react-inactive?logo=react&logoColor=lightblue&style=for-the-badge" alt="react"/>
-  <img src="" alt=""/>
-  <img src="" alt=""/>
-  <img src="" alt=""/>
+  <img src="https://img.shields.io/badge/NEXT.js-black?logo=next&logoColor=white&style=for-the-badge" alt="next"/>
+  <img src="https://img.shields.io/badge/express-white?logo=express&logoColor=black&style=for-the-badge" alt="express"/>
+  <img src="https://img.shields.io/badge/vite-white?logo=vite&logoColor=violet&style=for-the-badge" alt="vite"/>
 </div>
   
 <div id="badges" >
