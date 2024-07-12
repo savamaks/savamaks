@@ -9,7 +9,7 @@
 
 
 ### :man_technologist: Обо мне:
-Я начинающий Frontend разработчик <img src="https://media0.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e478ze4yu5g9qpzv1b53c8tlzidu3iidxtqi3xrr66t&rid=giphy.gif&ct=g" width="50"> из Карелии.
+Я Frontend разработчик <img src="https://media0.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e478ze4yu5g9qpzv1b53c8tlzidu3iidxtqi3xrr66t&rid=giphy.gif&ct=g" width="50"> из Карелии.
 - :man_student: Отучился на курсе по фронтенд в SkillFactory.
 
 - :snowboarder: Зимой в свободное время катаюсь на сноуборде.
